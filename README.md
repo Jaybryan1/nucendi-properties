@@ -30,4 +30,3 @@ A starter web application with tenant registration, admin-only property manageme
 - Before public production: add rate limiting/bot controls, robust transactional review RPCs, email configuration, data retention/deletion policy, tenant dispute handling, backups, monitoring, and professional security review.
 - Browser uses the Supabase JavaScript client from a CDN; ensure it loads when online.
 - The earlier browser-only prototype's localStorage data is **not** automatically migrated. Export it before switching and plan a validated migration separately.
-# nucendi-properties
